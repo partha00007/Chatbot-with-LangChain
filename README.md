@@ -13,10 +13,11 @@ This is a simple interactive chatbot built with **LangChain** and **Ollama** (us
 Create a virtual environment** (optional but recommended)
 
 python -m venv venv
+
 #On mac
 source venv/bin/activate  
 
-# On Windows: 
+#On Windows
 
 venv\Scripts\activate
 
